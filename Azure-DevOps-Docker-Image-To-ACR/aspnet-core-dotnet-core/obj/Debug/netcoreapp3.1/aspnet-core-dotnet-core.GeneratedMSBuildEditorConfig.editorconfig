@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = aspnet_core_dotnet_core
+build_property.ProjectDir = c:\Users\gopal\Downloads\thomascook\Azure-DevOps-Docker-Image-To-ACR\aspnet-core-dotnet-core\
